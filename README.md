@@ -1,4 +1,4 @@
-![](image/suspilne_eurovision_logo_white.png)
+![](image/eurovisionua.jpg)
 ```
 📁 eurovisionua-
 ├ 📄 eurovisionua.sh
