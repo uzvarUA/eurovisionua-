@@ -22,3 +22,6 @@ whoami && passed
 > Шукаємо `📁 eurovisionua`  та вставляємо дві файли: `live_concert.mp4` та `voting_results.mp4` <br>
 ***
 # Запускаємо
+```bash
+./eurovisionua.sh
+***
