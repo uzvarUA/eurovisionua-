@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/uzvarUA/eurovisionua-/9187b53765ee0b973fde1b6b8e1db15ca5e89677/image/suspilne_eurovision_logo_white.svg)
+![](image/suspilne_eurovision_logo_white.png)
 ```
 📁 eurovisionua
 ├ 📄 eurovisionua.sh
