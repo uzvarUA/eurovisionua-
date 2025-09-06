@@ -24,4 +24,5 @@ whoami && passed
 # Запускаємо
 ```bash
 ./eurovisionua.sh
+```
 ***
