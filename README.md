@@ -1,6 +1,6 @@
 ![](image/suspilne_eurovision_logo_white.png)
 ```
-📁 eurovisionua
+📁 eurovisionua-
 ├ 📄 eurovisionua.sh
 ├ 🎬 🎥 🎶 live_concert.mp4
 └ 🎥 🎤 🎧 voting_results.mp4
@@ -11,7 +11,7 @@
 termux-change-repo && \
 pkg update -y && pkg upgrade -y && \
 pkg install git && \
-git clone Https://github.com/uzvarua/eurovisionua && cd $HOME/eurovisionua && chmod +x eurovisionua.sh && \
+git clone Https://github.com/uzvarua/eurovisionua- && cd $HOME/eurovisionua- && chmod +x eurovisionua.sh && \
 whoami && passed
 ```
 ***
@@ -20,7 +20,7 @@ whoami && passed
 > У termux треба набрати таку команду `sshd` <br>
 > У `CX File explorer` треба шукати `SFTP` <br>
 > У `SFTP` треба написати `127.0.0.1:8022` <br> Ім'я получено із `whoami` та пароль. <br>
-> Шукаємо `📁 eurovisionua`  та вставляємо дві файли: `live_concert.mp4` та `voting_results.mp4` <br>
+> Шукаємо `📁 eurovisionua-`  та вставляємо дві файли: `live_concert.mp4` та `voting_results.mp4` <br>
 ***
 # Запускаємо
 ```bash
